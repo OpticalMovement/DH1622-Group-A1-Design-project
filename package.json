@@ -14,7 +14,8 @@
   "homepage": "https://opticalmovement.github.io/phaser3-ts-webpack-template",
   "dependencies": {
     "gh-pages": "^5.0.0",
-    "phaser": "^3.55.2"
+    "phaser": "^3.55.2",
+    "phaser3-rex-plugins": "^1.60.6"
   },
   "devDependencies": {
     "clean-webpack-plugin": "^4.0.0",
