@@ -156,7 +156,7 @@ export default class PreloadScene extends Phaser.Scene {
 		GlobalFunctions.myGlobalFunction();
 
 		
-		this.add.text(400, 150, "DJ MYRSKY\nSPELUPPLEVELSE", {font: "80px VCR"}).setOrigin(0.5,0.5).setAlign('center');
+		this.add.text(400, 150, "GROUP A1\nDESIGN PROTOTYPE", {font: "80px VCR"}).setOrigin(0.5,0.5).setAlign('center');
 		
 		
 		this.IntroFrame = this.add.image(400, 480, "IntroFrame").setScale(0.36);
