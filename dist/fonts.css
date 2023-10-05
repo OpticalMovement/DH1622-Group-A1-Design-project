@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'VCR';
+    src: url(assets/fonts/VCR_OSD_MONO.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'FM-Light';
+    src: local("ForsvarsmaktenSans-Light"), 
+    url('assets/browser/webfonts/ForsvarsmaktenSans-Light.ttf');
+}
+@font-face {
+    font-family: 'FM-Regular';
+    src: local("ForsvarsmaktenSans-Regular"), 
+    url('assets/browser/webfonts/ForsvarsmaktenSans-Regular.ttf');
+}
+@font-face {
+    font-family: 'FM-Stencil';
+    src: local("ForsvarsmaktenSans-Stencil"), 
+    url('assets/browser/webfonts/ForsvarsmaktenSans-Stencil.ttf');
+}
+
+body {
+    font-family: 'VCR', 'FM-Stencil';
+    font-size: 27pt;
+	font-weight: 300;
+	letter-spacing: 0.025em;
+	line-height: 1.65;
+}
