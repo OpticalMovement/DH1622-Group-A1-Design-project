@@ -1,5 +1,5 @@
 {
-  "name": "DH1622-Group-A1-Design-project",
+  "name": "dh1622-group-a1-design-project",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://opticalmovement.github.io/DH1622-Group-A1-Design-project",
+  "homepage": "https://opticalmovement.github.io/dh1622-group-a1-design-project",
   "dependencies": {
     "gh-pages": "^5.0.0",
     "phaser": "^3.55.2",
