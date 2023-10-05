@@ -1,11 +1,6 @@
-# phaser3-ts-webpack-template
+# DH1622-Group-A1-Design-project
  
-Template for phaser3 browser games
-
-Dont forget to change "phaser3-ts-webpack-template" to new project "name" in:
-README.md
-package.json
-package-lock.json
+DH1622-Group-A1-Design-project
 
 
 Create QR-code for githubpages: https://new.express.adobe.com/tools/generate-qr-code

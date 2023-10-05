@@ -1,5 +1,5 @@
 {
-  "name": "phaser3-ts-webpack-template",
+  "name": "DH1622-Group-A1-Design-project",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://opticalmovement.github.io/phaser3-ts-webpack-template",
+  "homepage": "https://opticalmovement.github.io/DH1622-Group-A1-Design-project",
   "dependencies": {
     "gh-pages": "^5.0.0",
     "phaser": "^3.55.2",
