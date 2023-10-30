@@ -150,13 +150,13 @@ export default class PreloadScene extends Phaser.Scene {
 			.setDepth(1)
 			.on('pointerover', () => { this.InfoButton.setFrame(1); })
 			.on('pointerout', () => { this.InfoButton.setFrame(0); })
-			.on('pointerdown', () => window.open("https://jobb.forsvarsmakten.se/sv/utbildning/befattningsguiden/officers-befattningar/stridspilot/kp-pilot/", "_blank"));
-		this.InfoButtonText = this.add.text(400, 1280, "LÄS OM RIKTIGA TESTET", {font: "30px VCR"}).setOrigin(0.5,0.5).setDepth(2).setAlign('center');
+			.on('pointerdown', () => window.open("https://sv.wikipedia.org/wiki/Kvantmekanik", "_blank"));
+		this.InfoButtonText = this.add.text(400, 1280, "GÖR NÅTT BALLT", {font: "30px VCR"}).setOrigin(0.5,0.5).setDepth(2).setAlign('center');
 
 		GlobalFunctions.myGlobalFunction();
 
 		
-		this.add.text(400, 150, "GROUP A1\nDESIGN PROTOTYPE", {font: "80px VCR"}).setOrigin(0.5,0.5).setAlign('center');
+		this.add.text(400, 150, "GROUP A1\nDESIGN PROTOTYPE", {font: "70px VCR"}).setOrigin(0.5,0.5).setAlign('center');
 		
 		
 		this.IntroFrame = this.add.image(400, 480, "IntroFrame").setScale(0.36);

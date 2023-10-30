@@ -2,6 +2,7 @@ import Phaser from 'phaser'
 import { GlobalFunctions } from './Globals';
 import Textures from './Textures';
 import { Scene1Text } from './Text';
+import VirtualJoystick from 'phaser3-rex-plugins/plugins/virtualjoystick.js';
 
 export default class Scene1 extends Phaser.Scene {
 
